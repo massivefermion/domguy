@@ -1,5 +1,6 @@
 {
   "name": "domguy",
+  "version": "0.1.0",
   "type": "module",
   "dependencies": {
     "d": "^1.0.1",
