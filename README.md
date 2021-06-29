@@ -1,6 +1,6 @@
 # domguy
 
-generate a dom tree from js
+generate dom trees from js
 
 ## Install
 
