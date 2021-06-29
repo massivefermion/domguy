@@ -1,6 +1,15 @@
 {
   "name": "domguy",
   "version": "0.1.1",
+  "keywords": [
+    "dom",
+    "html",
+    "tree",
+    "structure",
+    "builder",
+    "build",
+    "template"
+  ],
   "type": "module",
   "dependencies": {
     "d": "^1.0.1",
