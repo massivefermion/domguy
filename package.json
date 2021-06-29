@@ -4,8 +4,5 @@
   "dependencies": {
     "d": "^1.0.1",
     "pretty": "^2.0.0"
-  },
-  "devDependencies": {
-    "html-prettify": "^1.0.3"
   }
 }

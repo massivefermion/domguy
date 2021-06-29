@@ -2,15 +2,11 @@ lockfileVersion: 5.3
 
 specifiers:
   d: ^1.0.1
-  html-prettify: ^1.0.3
   pretty: ^2.0.0
 
 dependencies:
   d: 1.0.1
   pretty: 2.0.0
-
-devDependencies:
-  html-prettify: 1.0.3
 
 packages:
 
@@ -120,10 +116,6 @@ packages:
       once: 1.4.0
       path-is-absolute: 1.0.1
     dev: false
-
-  /html-prettify/1.0.3:
-    resolution: {integrity: sha512-tbgHB/cFIAxqDW/wryyGEnd396qOtJIBf4q29kW2jdJy1Q7GYKl1LnoI28cKzMJG9UYZx0RGkUKTRMl0b6YZNg==}
-    dev: true
 
   /inflight/1.0.6:
     resolution: {integrity: sha1-Sb1jMdfQLQwJvJEKEHW6gWW1bfk=}
