@@ -9,7 +9,9 @@ const page = root
   .html(
     [
       head([
-        meta({ std: [['charset', 'UTF-8']] }),
+        meta({
+          std: [['charset', 'UTF-8']],
+        }),
         meta({
           std: [
             ['http-equiv', 'X-UA-Compatible'],
@@ -39,6 +41,7 @@ const page = root
     ],
     {
       std: [['lang', 'en']],
+      nstd: [['non-standard-attribute', 'value']],
     }
   )
   .toString()
