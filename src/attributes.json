@@ -1,0 +1,428 @@
+{
+    "globals": [
+        "accesskey",
+        "autocapitalize",
+        "class",
+        "contenteditable",
+        "contextmenu",
+        "data-*",
+        "dir",
+        "draggable",
+        "hidden",
+        "id",
+        "itemprop",
+        "lang",
+        "slot",
+        "spellcheck",
+        "style",
+        "tabindex",
+        "title",
+        "translate"
+    ],
+    "html": [
+        "manifest "
+    ],
+    "base": [
+        "href",
+        "target"
+    ],
+    "link": [
+        "crossorigin",
+        "href",
+        "hreflang",
+        "importance ",
+        "integrity",
+        "media",
+        "referrerpolicy",
+        "rel",
+        "sizes"
+    ],
+    "meta": [
+        "charset",
+        "content",
+        "http-equiv",
+        "name"
+    ],
+    "style": [
+        "media",
+        "scoped  ",
+        "type"
+    ],
+    "body": [
+        "background",
+        "bgcolor"
+    ],
+    "blockquote": [
+        "cite"
+    ],
+    "hr": [
+        "align",
+        "color"
+    ],
+    "li": [
+        "value"
+    ],
+    "ol": [
+        "reversed",
+        "start"
+    ],
+    "a": [
+        "download",
+        "href",
+        "hreflang",
+        "media",
+        "ping",
+        "referrerpolicy",
+        "rel",
+        "shape",
+        "target"
+    ],
+    "data": [
+        "value"
+    ],
+    "q": [
+        "cite"
+    ],
+    "time": [
+        "datetime"
+    ],
+    "area": [
+        "alt",
+        "coords",
+        "download",
+        "href",
+        "hreflang",
+        "media",
+        "ping",
+        "referrerpolicy",
+        "rel",
+        "shape",
+        "target"
+    ],
+    "audio": [
+        "autoplay",
+        "buffered",
+        "controls",
+        "crossorigin",
+        "loop",
+        "muted",
+        "preload",
+        "src"
+    ],
+    "img": [
+        "align",
+        "alt",
+        "border",
+        "crossorigin",
+        "decoding",
+        "height",
+        "importance ",
+        "intrinsicsize ",
+        "ismap",
+        "loading ",
+        "referrerpolicy",
+        "sizes",
+        "src",
+        "srcset",
+        "usemap",
+        "width"
+    ],
+    "map": [
+        "name"
+    ],
+    "track": [
+        "default",
+        "kind",
+        "label",
+        "src",
+        "srclang"
+    ],
+    "video": [
+        "autoplay",
+        "buffered",
+        "controls",
+        "crossorigin",
+        "height",
+        "loop",
+        "muted",
+        "poster",
+        "preload",
+        "src",
+        "width"
+    ],
+    "embed": [
+        "height",
+        "src",
+        "type",
+        "width"
+    ],
+    "iframe": [
+        "align",
+        "allow",
+        "csp ",
+        "height",
+        "importance ",
+        "loading ",
+        "name",
+        "referrerpolicy",
+        "sandbox",
+        "src",
+        "srcdoc",
+        "width"
+    ],
+    "object": [
+        "border",
+        "data",
+        "form",
+        "height",
+        "name",
+        "type",
+        "usemap",
+        "width"
+    ],
+    "param": [
+        "name",
+        "value"
+    ],
+    "source": [
+        "media",
+        "sizes",
+        "src",
+        "srcset",
+        "type"
+    ],
+    "canvas": [
+        "height",
+        "width"
+    ],
+    "script": [
+        "async",
+        "charset",
+        "crossorigin",
+        "defer",
+        "importance ",
+        "integrity",
+        "language ",
+        "referrerpolicy",
+        "src",
+        "type"
+    ],
+    "del": [
+        "cite",
+        "datetime"
+    ],
+    "ins": [
+        "cite",
+        "datetime"
+    ],
+    "caption": [
+        "align"
+    ],
+    "col": [
+        "align",
+        "bgcolor",
+        "span"
+    ],
+    "colgroup": [
+        "align",
+        "bgcolor",
+        "span"
+    ],
+    "table": [
+        "align",
+        "background",
+        "bgcolor",
+        "border",
+        "summary "
+    ],
+    "tbody": [
+        "align",
+        "bgcolor"
+    ],
+    "td": [
+        "align",
+        "background",
+        "bgcolor",
+        "colspan",
+        "headers",
+        "rowspan"
+    ],
+    "tfoot": [
+        "align",
+        "bgcolor"
+    ],
+    "th": [
+        "align",
+        "background",
+        "bgcolor",
+        "colspan",
+        "headers",
+        "rowspan",
+        "scope"
+    ],
+    "thead": [
+        "align"
+    ],
+    "tr": [
+        "align",
+        "bgcolor"
+    ],
+    "button": [
+        "autofocus",
+        "disabled",
+        "form",
+        "formaction",
+        "formenctype",
+        "formmethod",
+        "formnovalidate",
+        "formtarget",
+        "name",
+        "type",
+        "value"
+    ],
+    "fieldset": [
+        "disabled",
+        "form",
+        "name"
+    ],
+    "form": [
+        "accept",
+        "accept-charset",
+        "action",
+        "autocomplete",
+        "enctype",
+        "method",
+        "name",
+        "novalidate",
+        "target"
+    ],
+    "input": [
+        "accept",
+        "alt",
+        "autocomplete",
+        "autofocus",
+        "capture",
+        "checked",
+        "dirname",
+        "disabled",
+        "form",
+        "formaction",
+        "formenctype",
+        "formmethod",
+        "formnovalidate",
+        "formtarget",
+        "height",
+        "list",
+        "max",
+        "maxlength",
+        "minlength",
+        "min",
+        "multiple",
+        "name",
+        "pattern",
+        "placeholder",
+        "readonly",
+        "required",
+        "size",
+        "src",
+        "step",
+        "type",
+        "usemap",
+        "value",
+        "width"
+    ],
+    "label": [
+        "for",
+        "form"
+    ],
+    "meter": [
+        "form",
+        "high",
+        "low",
+        "max",
+        "min",
+        "optimum",
+        "value"
+    ],
+    "optgroup": [
+        "disabled",
+        "label"
+    ],
+    "option": [
+        "disabled",
+        "label",
+        "selected",
+        "value"
+    ],
+    "output": [
+        "for",
+        "form",
+        "name"
+    ],
+    "progress": [
+        "form",
+        "max",
+        "value"
+    ],
+    "select": [
+        "autocomplete",
+        "autofocus",
+        "disabled",
+        "form",
+        "multiple",
+        "name",
+        "required",
+        "size"
+    ],
+    "textarea": [
+        "autocomplete",
+        "autofocus",
+        "cols",
+        "dirname",
+        "disabled",
+        "enterkeyhint ",
+        "form",
+        "inputmode",
+        "maxlength",
+        "minlength",
+        "name",
+        "placeholder",
+        "readonly",
+        "required",
+        "rows",
+        "wrap"
+    ],
+    "details": [
+        "open"
+    ],
+    "menu": [
+        "type"
+    ],
+    "applet": [
+        "align",
+        "alt",
+        "code",
+        "codebase"
+    ],
+    "basefont": [
+        "color"
+    ],
+    "bgsound": [
+        "loop"
+    ],
+    "font": [
+        "color"
+    ],
+    "keygen": [
+        "autofocus",
+        "challenge",
+        "disabled",
+        "form",
+        "keytype",
+        "name"
+    ],
+    "marquee": [
+        "bgcolor",
+        "loop"
+    ]
+}
